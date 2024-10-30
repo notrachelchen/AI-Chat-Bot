@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Eustrat Zhupa",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Borrowing the words of another reviewer here whose comment cannot be topped : Truly an icon"
+      },
+      {
+        "professor": "Elias Mandala",
+        "subject": "History",
+        "stars": 5,
+        "review": "Take it, take it, take it! The best History Professor I have seen out there. Always encourages his students to attend office hours, and even asked students to redo their papers if they fall below the class average. An incredible professor he is."
+      },
+      {
+        "professor": "Nese Yildiz",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "A sweet and encouraging professor. Classes could better, but hey, let's be nice."
+      },
+      {
+        "professor": "Bonnie Meguid",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "I really loved Professor Meguid! She's unbelievably smart and really cares about her students. She is very accessible outside of class and super responsive to emails. You can't BS the readings though so don't make my mistake. I was not happy with the grade I received in this class, but that's entirely on me not putting in the necessary effort."
+      },
+      {
+        "professor": "Nicholas Zaino",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Lectures are confusing, and there’s little support outside class."
+      },
+      {
+        "professor": "James Longenbach",
+        "subject": "English",
+        "stars": 3,
+        "review": "Lecture heavy but always willing to slow down and help outside of class. Workload is tolerable and the class is not bad as long as you pay attention to the material. "
+      },
+      {
+        "professor": "Jason Middleton",
+        "subject": "Film",
+        "stars": 5,
+        "review": "he really values student input and contributions, and he speaks to the class as if they're intellectually equal to him which stimulated amazing discussions. He values every student and is super nice. He knows so much about differing aspects of film and is open to new ideas/theories"
+      },
+      {
+        "professor": "Mark Bils",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Such a great professor I have ever met! He is a genius. I love his lecture. As long as you study, you will ace this"
+      },
+      {
+        "professor": "Mark Biles",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Excellent professor! Clear, concise, and inspiring I have to admit Mark Bils is a genius in the econ field and he is also an amiable professor. However, he is a tough grader and most of the credits are graded based on the exams (the exams are also very difficult)."
+      },
+      {
+        "professor": "David Foster",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "The exams take a large amount of your final grade, and they are usually pretty difficult. Average will be like 50% 60%, but he will decide final grade wisely. His lecture is perfect. The problem comes from the course material that is not difficult to be taught in general, understandable language"
+      },
+      {
+        "professor": "Elizabeth Scotter",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Engaging and really cares about her students’ success."
+      },
+      {
+        "professor": "Dr. George Wilson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Interesting material, but the exams were tough."
+      },
+      {
+        "professor": "Dr. Karen Phillips",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Very knowledgeable, but lectures can get a bit dry."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate about the subject and very helpful."
+      },
+      {
+        "professor": "Dr. Jennifer Green",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Her lectures are good, but the readings are excessive."
+      },
+      {
+        "professor": "Dr. Thomas White",
+        "subject": "Linguistics",
+        "stars": 2,
+        "review": "Difficult to understand and doesn’t answer questions well."
+      },
+      {
+        "professor": "Dr. Patricia Walker",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Super talented and makes theory fun!"
+      },
+      {
+        "professor": "Dr. William Turner",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "His tests are hard, but the lectures are solid."
+      },
+      {
+        "professor": "Dr. Henry Adams",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Tough grader, but very fair and clear in his teaching."
+      },
+      {
+        "professor": "Dr. Elizabeth Scott",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Great professor! Very engaging and always available to help."
+      }
+    ]
+  }
+  
